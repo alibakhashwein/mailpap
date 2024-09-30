@@ -3,6 +3,9 @@
 ## Project Description
 Email Marketing and CRM is a comprehensive solution designed to enhance your email marketing efforts while providing robust customer relationship management capabilities. With features tailored for both bulk and individual email sending, detailed analytics, and subscriber management, this project aims to streamline your communication and improve customer engagement.
 
+## Demo
+To view the demo of this project, please visit: [https://mailpap.mobilexsolutions.com](https://mailpap.mobilexsolutions.com)
+
 ## Key Features
 - **Email Sending:**
   - Send bulk emails, single emails, or emails based on subscriber categories.
